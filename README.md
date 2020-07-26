@@ -26,3 +26,7 @@ These two tabs will start up 3 windows: RVix, Gazebo and RTAB-Map
 
 In order to drive the robot, on the third tab:
 `roslaunch slam teleop.launch`
+
+
+## Screenshot of SLAM
+![Image of SLAM from RTAB-Map](https://github.com/onurbagoren/slam/blob/master/mapping.png)
